@@ -21,7 +21,7 @@ Tripva-Mobile-App-Testing/
 ├── Test_Cases.xlsx      29 test cases (module-wise)
 ├── Bug_Reports.xlsx     6 bug reports with steps, expected/actual, severity, priority
 ├── Test_Summary.xlsx    summary, by module, bugs by severity
-└── Screenshots/         Bug_001 to Bug_006 (.png) and screen recordings (.mp4); Bug_006 screenshot pending
+└── Screenshots/         Bug_001 to Bug_006 (.png) and screen recordings (.mp4); 
 ```
 
 ## Test Summary
