@@ -9,7 +9,7 @@ Manual testing of **Tripva**, a bus ticket booking mobile app, done as part of a
 | OS | Android 10 |
 | Testing type | Manual (functional, UI, exploratory) |
 | Tester | SABARI ROHINI M |
-| Bug reporting | Google Form |
+| Bug reporting | Doc & Google Form|
 
 ## Scope
 Bus search results, filters and sorting, notifications, and the user profile.
